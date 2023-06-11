@@ -127,7 +127,7 @@ namespace Лаб5
         private System.Windows.Forms.Button Editdevice;
         private System.Windows.Forms.Label ValuePower;
         public System.Windows.Forms.Label Power;
-        private System.Windows.Forms.ListBox listBox1;
+        public System.Windows.Forms.ListBox listBox1;
     }
 }
 

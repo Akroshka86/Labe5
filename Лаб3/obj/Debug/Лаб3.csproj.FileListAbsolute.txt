@@ -1,0 +1,6 @@
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб3\bin\Debug\Лаб3.dll
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб3\bin\Debug\Лаб3.pdb
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб3\obj\Debug\Лаб3.csproj.AssemblyReference.cache
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб3\obj\Debug\Лаб3.csproj.CoreCompileInputs.cache
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб3\obj\Debug\Лаб3.dll
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб3\obj\Debug\Лаб3.pdb

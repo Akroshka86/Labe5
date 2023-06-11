@@ -1,0 +1,14 @@
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\bin\Debug\netcoreapp3.1\Лаб4.exe
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\bin\Debug\netcoreapp3.1\Лаб4.deps.json
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\bin\Debug\netcoreapp3.1\Лаб4.runtimeconfig.json
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\bin\Debug\netcoreapp3.1\Лаб4.runtimeconfig.dev.json
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\bin\Debug\netcoreapp3.1\Лаб4.dll
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\bin\Debug\netcoreapp3.1\Лаб4.pdb
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\obj\Debug\netcoreapp3.1\Лаб4.csproj.AssemblyReference.cache
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\obj\Debug\netcoreapp3.1\Лаб4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\obj\Debug\netcoreapp3.1\Лаб4.AssemblyInfoInputs.cache
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\obj\Debug\netcoreapp3.1\Лаб4.AssemblyInfo.cs
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\obj\Debug\netcoreapp3.1\Лаб4.csproj.CoreCompileInputs.cache
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\obj\Debug\netcoreapp3.1\Лаб4.dll
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\obj\Debug\netcoreapp3.1\Лаб4.pdb
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб4\obj\Debug\netcoreapp3.1\Лаб4.genruntimeconfig.cache

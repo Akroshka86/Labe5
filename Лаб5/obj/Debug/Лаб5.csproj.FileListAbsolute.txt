@@ -1,0 +1,12 @@
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\bin\Debug\Лаб5.exe.config
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\bin\Debug\Лаб5.exe
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\bin\Debug\Лаб5.pdb
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\obj\Debug\Лаб5.Properties.Resources.resources
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\obj\Debug\Лаб5.csproj.GenerateResource.cache
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\obj\Debug\Лаб5.csproj.CoreCompileInputs.cache
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\obj\Debug\Лаб5.exe
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\obj\Debug\Лаб5.pdb
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\obj\Debug\Лаб5.csproj.CopyComplete
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\obj\Debug\Лаб5.Form1.resources
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\obj\Debug\Лаб5.Form3.resources
+C:\Users\Manch\Desktop\Университет\4 семестр\ТХП\Лаб5\obj\Debug\Лаб5.csproj.AssemblyReference.cache

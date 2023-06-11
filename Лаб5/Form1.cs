@@ -18,7 +18,7 @@ namespace Лаб5
             InitializeComponent();
         }
 
-        private void button11_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             Form3 formadd = new Form3(this);
             formadd.Show();
